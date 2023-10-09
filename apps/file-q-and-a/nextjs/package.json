@@ -15,7 +15,7 @@
     "@tailwindcss/line-clamp": "^0.4.2",
     "@tailwindcss/typography": "^0.5.9",
     "@types/formidable": "^2.0.5",
-    "@types/lodash": "^4.14.191",
+    "@types/lodash": "^4.14.198",
     "@types/node": "18.11.18",
     "@types/pdf-parse": "^1.1.1",
     "@types/react": "18.0.27",
